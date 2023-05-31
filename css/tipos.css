@@ -1,18 +1,54 @@
-.grama{
-    background-color: #77cc55;
+.normal{
+    background-color: #AAAA99;
 }
-.veneno{
-    background-color: #aa5599;
+.fire{
+    background-color: #FF4422;
 }
-.fogo{
-    background-color: #ff4422;
+.water{
+    background-color: #3399FF;
 }
-.agua{
-    background-color: #3399ff;
+.electric{
+    background-color: #FFCC33;
 }
-.inseto{
-    background-color: #aabb22;
+.grass{
+    background-color: #77CC55;
 }
-.voador{
-    background-color: #8899ff;
+.ice{
+    background-color: #66CCFF;
+}
+.fighting{
+    background-color: #BB5544;
+}
+.poison{
+    background-color: #AA5599;
+}
+.ground{
+    background-color: #DDBB55;
+}
+.flying{
+    background-color: #8899FF;
+}
+.psychic{
+    background-color: #FF5599;
+}
+.bug{
+    background-color: #AABB22;
+}
+.rock{
+    background-color: #BBAA66;
+}
+.ghost{
+    background-color: #6666BB;
+}
+.dragon{
+    background-color: #7766EE;
+}
+.dark{
+    background-color: #775544;
+}
+.steel{
+    background-color: #AAAABB;
+}
+.fairy{
+    background-color: #EE99EE;
 }

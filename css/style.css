@@ -50,13 +50,13 @@ main{
 }
 .cartao-pokemon{
     background-color: var(--cor-card);
-    padding: 15px;
+    padding: 30px;
     width: 200px;
     display: flex;
     flex-direction: column;
     align-items: center;
     border-radius: 15px;
-    gap: 15px;
+    gap: 30px;
 
 }
 .cartao-pokemon:hover{
@@ -76,12 +76,15 @@ main{
     
 }
 .gif{
-    width: 90px;
-    height: 90px;
+    height: 60%;
 }
 .tipos{
+    text-transform: capitalize;
     display: flex;
     gap: 15px;
+}
+.centralizado{
+    text-align: center;
 }
 .tipo{
     padding: 8px;
